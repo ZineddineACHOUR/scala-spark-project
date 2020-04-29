@@ -7,7 +7,7 @@ import org.apache.spark.sql.types.StructType
 import org.apache.spark.sql.{DataFrame, SparkSession}
 import com.zinouapp.app.domains.AppImplicits._
 /**
- * Hello world!
+ * Introduction to scala spark!
  *
  */
 
